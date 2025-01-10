@@ -135,7 +135,7 @@ def submit_input():
             print(url)
 
             # 下載到本機
-            filename = 'C:\\Users\KH\Desktop\\資料夾\\Hololive中繼站\\hololive暫存\\' + \
+            filename = 'Path' + \
                 os.path.basename(url)
             response = requests.get(url)
             with open(filename, "wb") as f:
