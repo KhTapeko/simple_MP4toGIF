@@ -1,5 +1,7 @@
 # Simple mp4 file convert gif
 
+🔥 **網頁不支援 imgur，暫時失效** 🔥
+
 ## Description 描述
   用於將網頁上的mp4檔案快速轉成gif
   
