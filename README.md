@@ -1,15 +1,14 @@
 # Simple mp4 file convert gif
 
-🔥 **網頁不支援 imgur，暫時失效** 🔥
-
 ## Description 描述
-  用於將網頁上的mp4檔案快速轉成gif
+  用於將mp4檔案快速轉成gif
   
 ## Supported this Types 程式支援檔案類型
-  網頁上的各種來源的mp4檔案且時間小於10s
+  mp4檔案且時間小於10s
   
 ## Feature 主要功能
   將mp4轉成gif
+  並自動壓縮成小於 8MB 大小檔案
   
 ## Demo 實際展示
   
